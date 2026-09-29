@@ -1,5 +1,5 @@
 {
-  "name": "hw-materials",
+  "name": "@kaoniqiwa/materials",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
